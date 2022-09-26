@@ -1,5 +1,11 @@
-# House Lights
+# House Lights (amended by Damzen to add outside lights again as a toggle).
 Mod for The Long Dark that magically brings electricity back. You can turn lights on and off by using the light switches.
+
+## damzen mod:
+
+-Added Outdoor light toggle to turn on outdoor lights again.
+-Added toggle for the default state of the lights in game. (default has always been false. If set to 'Yes' it will turn lights on upon load of the scene'
+
 
 ## Updates
 ### v2.2
