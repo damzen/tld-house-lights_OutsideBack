@@ -1,7 +1,15 @@
 # House Lights
-Mod for The Long Dark that magically brings electricity back. You can turn lights on and off by using the light switches.
+Adaption of Xpazeman's Mod for The Long Dark that magically brings electricity back. You can turn lights on and off by using the light switches.
+
+Outside lights have returned as optional setting. (Note - performance impact still exists if running slow machine, as all outside lights in scene load at once.) Also option to change the default state of lights being ON or off (mod default is OFF). This impacts outdoor lights if enabled too.
 
 ## Updates
+
+## v2.2.1 - Damzen's mod: Adds two new options:
+  *Enable Outside lights*
+  *Default light state - ON*
+
+
 ### v2.2
 * NEW: Added sound to the light switches.
 * FIX: Tweaked code to improve performance, mod is disabled outdoors.
